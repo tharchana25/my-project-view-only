@@ -1,0 +1,14 @@
+Copyright (c) tharchana
+
+This code is provided for **viewing purposes only**. You may not:
+- Download
+- Copy
+- Modify
+- Distribute
+- Reuse in any form
+
+Any such use requires **prior written permission** from the author.
+
+To request permission, contact:  https://github.com/tharchana25
+
+All rights reserved.
