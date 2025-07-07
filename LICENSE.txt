@@ -1,14 +1,16 @@
-Copyright (c) tharchana
+Copyright (c) Archana 2025
 
-This code is provided for **viewing purposes only**. You may not:
+This code is provided for **viewing purposes only**. 
+
+You are NOT permitted to:
 - Download
 - Copy
 - Modify
 - Distribute
-- Reuse in any form
+- Reuse or integrate this code in any form
 
-Any such use requires **prior written permission** from the author.
+Any use beyond viewing requires **prior written permission** from the author.
 
-To request permission, contact:  https://github.com/tharchana25
+To request permission, contact: https://github.com/tharchana
 
 All rights reserved.
